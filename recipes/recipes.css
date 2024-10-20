@@ -1,0 +1,190 @@
+/* Butter Chicken Section */
+
+.title-butter-chicken{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 500px;
+    background-color: rgb(179, 101, 12);
+    color:white;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.butter {
+    display: grid;
+    place-items: center;
+    padding: 50px;
+}
+
+p{
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+    padding-top: 25px
+}
+
+.b-main-title-h2{
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 28px;
+        font-weight: 500px;
+        background-color: rgb(179, 101, 12);
+        color:white;
+        border-radius: 5px;
+        padding: 25px;
+}
+
+.b-title-h2{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 500px;
+    background-color: rgb(179, 101, 12);
+    color:white;
+    border-radius: 5px;
+    padding:10px;
+}
+
+.b-title-h3{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    font-weight: bold;
+    color:black;
+    text-decoration: underline;
+}
+
+.butter-steps {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px;
+    
+}
+
+/* Butter Chicken Section */
+
+/* Starbucks Section*/
+
+.title-starbucks{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 500px;
+    background-color: rgba(30,57,50,255);
+    color:white;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.baguette {
+    display: grid;
+    place-items: center;
+    padding: 50px;
+}
+
+p{
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+    padding-top: 25px
+}
+
+.s-main-title-h2{
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 28px;
+        font-weight: 500px;
+        background-color: rgba(30,57,50,255);
+        color:white;
+        border-radius: 5px;
+        padding: 25px;
+}
+
+.s-title-h2{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 500px;
+    background-color: rgba(30,57,50,255);
+    color:white;
+    border-radius: 5px;
+    padding:10px;
+}
+
+.starbucks-steps {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px;
+    
+}
+
+/* Starbucks Section */
+
+
+/* K-Bap Section */
+
+.title-k-bap{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 500px;
+    background-color: rgba(6, 143, 143, 0.514);
+    color:white;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.bap {
+    display: grid;
+    place-items: center;
+    padding: 50px;
+}
+
+p{
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+    padding-top: 25px
+}
+
+.k-main-title-h2{
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 28px;
+        font-weight: 500px;
+        background-color: rgba(6, 143, 143, 0.514);
+        color:white;
+        border-radius: 5px;
+        padding: 25px;
+}
+
+.k-title-h2{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 500px;
+    background-color: rgba(6, 143, 143, 0.514);
+    color:white;
+    border-radius: 5px;
+    padding:10px;
+}
+
+.k-title-h3{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    font-weight: bold;
+    color:black;
+    text-decoration: underline;
+}
+
+.k-steps {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px;
+    
+}
